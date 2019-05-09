@@ -231,7 +231,7 @@ Primary use:
   top: 8px;
   left: 16px;
   font-size: 18px;
-  z-index: -1;
+  z-index: 0;
 
 
 
